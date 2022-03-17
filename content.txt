@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 clear-branch
+=======
+cherry-branch
+>>>>>>> 35684a8... cherry-branch in content.txt
